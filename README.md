@@ -20,7 +20,7 @@ Customizable responsive admin panel using Boostrap 5.
 
 ![App Screenshot](https://github.com/nitinduseja/admin-panel-bootstrap5/blob/main/screenshots/Dashboard-Brand-Mobile.png)
 
-![App Screenshot](https://github.com/nitinduseja/admin-panel-bootstrap5/blob/main/screenshots/Dashboard-Brand--Mobile.png)
+![App Screenshot](https://github.com/nitinduseja/admin-panel-bootstrap5/blob/main/screenshots/Dashboard-Brand-Mobile.png)
 
 ![App Screenshot](https://github.com/nitinduseja/admin-panel-bootstrap5/blob/main/screenshots/Profile-Brand-Mobile.png)
 
